@@ -1,7 +1,7 @@
 # Module 01 — How AI Works, and the Rules of the Road
 
 Status: draft
-Time: 8:45–9:45 (60 min) · Objective(s): LO1
+Time: 8:15–9:15 (60 min) · Objective(s): LO1
 
 ## Why this module, here
 

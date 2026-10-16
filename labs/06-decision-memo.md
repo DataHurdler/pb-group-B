@@ -1,7 +1,7 @@
-# Lab 06 — Capstone: The Decision Memo
+# Lab 06 — Put It Together: The Decision Memo
 
 Status: draft
-Module: 06 · Time: 30 min · Objective(s): all · Work: **individual, assessed**
+Module: 06 · Time: 30 min · Objective(s): all · Work: individual memo, then a partner check (not graded)
 
 ## Your task
 
@@ -17,16 +17,19 @@ The memo must include:
 - your **recommendation**, with a one-line reason
 - **only facts from the packet**, with estimates labeled as estimates
 
-## Submit (by 3:28)
+## Partner check (last 8 minutes)
 
-1. **Every prompt** you used, in order
-2. **The final memo**
-3. **Verification notes:** each number in your memo, with where in the packet
-   it came from
-4. **One reusable template** that would produce this kind of memo from a
-   different packet, using `[SLOTS]`
+Swap memos with your partner. Check theirs, and they check yours:
 
-Scoring: [assessment/capstone-rubric.md](../assessment/capstone-rubric.md).
+- [ ] Could the director act on the first two sentences alone?
+- [ ] Are the decision and the 15 Nov deadline both in the first two sentences?
+- [ ] Are all three options there, each with staff-hours, cost, and completion?
+- [ ] Does every number match the packet? Check them by hand
+- [ ] Is the 92% figure labeled as an estimate?
+- [ ] Is anything in the memo that isn't in the packet?
+
+Make one fix each. If you finish early, save your memo prompt as a template
+with `[SLOTS]`, so it works on a different packet.
 
 ## Packet (fabricated for training, unclassified)
 
@@ -62,6 +65,8 @@ Scoring: [assessment/capstone-rubric.md](../assessment/capstone-rubric.md).
 
 ## Instructor: what a strong memo does
 
+Use this while walking the room. Nothing is scored.
+
 - **BLUF:** decision needed by 15 Nov on the refresher format. The
   recommendation is in the first two sentences.
 - **Eliminates B** using the director's own criterion: 81% is below 90%.
@@ -73,5 +78,6 @@ Scoring: [assessment/capstone-rubric.md](../assessment/capstone-rubric.md).
 - **Every number traces to the packet.** The 270-person total and the
   staff-hour figures appear as given, not recalculated differently.
 
-**Automatic fail on the accuracy row:** presenting 92% as measured, or citing
-any number, policy, or deadline that isn't in the packet.
+**The most common slips:** presenting 92% as measured, or adding a number,
+policy, or deadline that isn't in the packet. Both are worth raising in the
+close.

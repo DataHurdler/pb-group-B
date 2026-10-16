@@ -4,14 +4,13 @@ Status: draft
 
 ## Within 2 business days
 
-**Subject:** AI Prompt Engineering: your results, certificate, and resources
+**Subject:** AI Prompt Engineering: your certificate and resources
 
 Hi `[NAME]`,
 
 Thanks for taking part on `[DATE]`.
 
-- **Result:** `[Passed: certificate attached]` /
-  `[Not yet: feedback attached, with a resubmission or retake due by DATE]`
+- **Certificate of completion:** attached
 - **Resources:** the prompt library, the four reference cards, and the lab
   sheets: `[LINK on an approved share]`
 

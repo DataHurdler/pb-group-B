@@ -16,10 +16,9 @@ has completed
 
 **AI Prompt Engineering for Government Staff Work**
 
-a 6-hour course, and has shown the ability to write structured prompts,
-produce executive-ready staff products with AI, build reusable AI-assisted
-workflows, check AI output against its sources, and apply the rules for
-handling data in AI tools.
+a 6-hour course covering structured prompting, executive-ready staff
+products with AI, reusable AI-assisted workflows, checking AI output against
+its sources, and the rules for handling data in AI tools.
 
 Completed `[DATE]` · `[LOCATION]`
 
@@ -29,5 +28,5 @@ Certificate no. `[ID]`
 
 ---
 
-*This certificate records course completion. It doesn't authorize use of any
+*This certificate records attendance and course completion. It doesn't authorize use of any
 AI tool.*

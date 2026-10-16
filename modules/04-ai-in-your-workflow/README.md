@@ -38,8 +38,8 @@ saves it as a template so the time spent pays off next week too.
    `[READER]`, `[DUE DATE]`. Keep the instructions that made it work.
 4. **A template is finished when someone else can use it cold.** If they had
    to ask you something, put the answer in the template.
-5. **Where AI fits in the week.** Show the room's recurring tasks from 8:45
-   on the board, and mark which would be one prompt, which a chain, and which
+5. **Where AI fits in the week.** Show the room's recurring tasks from the
+   welcome on the board, and mark which would be one prompt, which a chain, and which
    not AI at all.
 
 ## Instructor notes

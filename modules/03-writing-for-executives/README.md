@@ -1,7 +1,7 @@
 # Module 03 — Writing for Executives
 
 Status: draft
-Time: 11:00–12:00 (60 min) · Objective(s): LO3
+Time: 10:45–11:45 (60 min) · Objective(s): LO3
 
 ## Why this module, here
 

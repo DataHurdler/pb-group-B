@@ -1,7 +1,7 @@
 # Module 02 — The Six Slots
 
 Status: draft
-Time: 10:00–11:00 (60 min) · Objective(s): LO2
+Time: 9:30–10:30 (60 min) · Objective(s): LO2
 
 ## Why this module, here
 
@@ -21,7 +21,7 @@ holes. Module 03 applies it straight away to executive writing.
 | 0–3 | Hook: a vague prompt and its generic output, projected. *"What did it have to guess?"* | Instructor | live demo |
 | 3–15 | Teach: the six slots, then one prompt rebuilt slot by slot | Instructor | slides, [six-slots card](../../handouts/six-slots-card.md) |
 | 15–50 | [Lab 02: Rebuild a vague prompt](../../labs/02-rebuild-a-vague-prompt.md) | Pairs | lab handout |
-| 50–60 | Debrief: which slot made the biggest difference? Then a 5-minute stretch before Module 03 | Room | |
+| 50–60 | Debrief: which slot made the biggest difference? | Room | |
 
 ## Teach: the six slots
 

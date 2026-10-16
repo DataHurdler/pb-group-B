@@ -1,14 +1,14 @@
 # Module 05 — Verify and Judge
 
 Status: draft
-Time: 2:00–2:50 (50 min) · Objective(s): LO5
+Time: 2:00–3:00 (60 min) · Objective(s): LO5
 
 ## Why this module, here
 
 Everything so far makes AI output faster and better-shaped, and that also
 makes errors more convincing. One wrong number in a memo to a general officer
 costs more than the time AI saved. This module is the last thing taught
-before the assessment, which weights accuracy most heavily.
+before Module 06, where participants check their own memo the same way.
 
 ## By the end, participants can
 
@@ -22,8 +22,8 @@ before the assessment, which weights accuracy most heavily.
 | --- | --- | --- | --- |
 | 0–3 | Hook: a polished AI summary on screen. *"Would you send this to the Chief of Staff?"* Hands up. Then: "It has four errors." | Instructor | Lab 05 summary |
 | 3–15 | Teach: four failure types and four defences; when not to use AI | Instructor | slides |
-| 15–43 | [Lab 05: Find the errors](../../labs/05-find-the-errors.md) | Pairs | lab handout |
-| 43–50 | Debrief: who found all four? Which error was hardest to spot, and why? | Room | |
+| 15–50 | [Lab 05: Find the errors](../../labs/05-find-the-errors.md) | Pairs | lab handout |
+| 50–60 | Debrief: who found all four? Which error was hardest to spot, and why? | Room | |
 
 ## Teach
 
@@ -61,5 +61,4 @@ before the assessment, which weights accuracy most heavily.
 - **Lab 05's errors are planted on purpose.** The answer key is in the lab's
   instructor section. Don't reveal the count until the hook.
 - **If running long, cut** Lab 05 Part C (the scenarios). Never cut Part A.
-- **Move to the knowledge check at 2:50 exactly.** Hand out the papers during
-  the last minute of the debrief.
+- **End on time for the 3:00 break.** Module 06 needs its full 30 minutes.

@@ -9,7 +9,7 @@ Status: draft. Send 2 weeks out, and a shorter reminder 1 week out.
 Hi `[NAME]`,
 
 You're registered for **AI Prompt Engineering for Government Staff Work** on
-**`[DATE]`, 8:30–3:45**, in **`[ROOM / BUILDING]`**.
+**`[DATE]`, 8:00–4:00**, in **`[ROOM / BUILDING]`**.
 
 **By the end of the day you'll be able to:**
 
@@ -19,8 +19,8 @@ You're registered for **AI Prompt Engineering for Government Staff Work** on
 - save templates for your recurring tasks, so AI becomes part of your normal week
 - check AI output before it goes up the chain
 
-**Certificate:** attend the whole day, pass a short knowledge check, and pass a
-30-minute hands-on capstone.
+**No exam.** Attend the whole day to receive a certificate of completion.
+The student syllabus is attached.
 
 **Before the day (about 15 minutes):**
 
@@ -33,7 +33,7 @@ You're registered for **AI Prompt Engineering for Government Staff Work** on
 course material is fabricated and unclassified. **Don't bring real work
 documents to paste into the AI.**
 
-Breaks are at 9:45 and 1:45, and lunch is 12:00–12:45 `[provided / on your own]`.
+There are four 15-minute breaks, and lunch is 11:45–12:45 `[provided / on your own]`.
 
 Questions? Reply to this email.
 

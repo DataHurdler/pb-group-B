@@ -1,6 +1,7 @@
 # Syllabus — AI Prompt Engineering for Government Staff Work
 
-Status: draft
+Status: draft. This is the instructor's version. Participants get
+[handouts/student-syllabus.md](../handouts/student-syllabus.md).
 
 ## Description
 
@@ -9,8 +10,7 @@ and military. Participants learn to write prompts that get usable results from
 their approved AI tool, and to use AI to turn long, messy inputs into short
 products a senior leader can act on in under a minute. They also learn to build
 AI into the recurring tasks of their week without breaking data-handling rules.
-Participants who complete every module, pass the knowledge check, and pass the
-capstone receive a certificate of completion.
+Participants who attend the full day receive a certificate of completion.
 
 ## Audience
 
@@ -41,20 +41,20 @@ By the end of the day, participants will be able to:
 5. **LO5:** Check AI output against its source, catch invented facts, and
    decide when *not* to use AI.
 
-## Certification
+Progress is checked in each lab's debrief and in the final exercise, not by a
+test. There is no exam or graded work.
 
-Participants earn a certificate of completion when they meet all three of
-these requirements. The details are in
-[assessment/certification-requirements.md](../assessment/certification-requirements.md).
+## Certificate of completion
 
-1. They attend every module.
-2. They score 8 or more out of 10 on the knowledge check.
-3. They score "Meets" or higher on every row of the capstone rubric.
+Participants receive a certificate of completion when they **attend every
+module**. Up to 15 minutes' total absence is allowed with the instructor's
+approval. Attendance is recorded on sign-in sheets at 8:00 and 12:45. The
+certificate template is in
+[instructor/certificate-template.md](../instructor/certificate-template.md).
 
-> The certificate records completion of this course. Whether it counts toward
-> any formal credential, continuing-education hours, or a training record is up
-> to the command's training office. Confirm this before advertising the course
-> as a "certification."
+> The certificate records attendance at this course. Whether it counts toward
+> any training record or continuing-education hours is up to the command's
+> training office. Confirm this before advertising it.
 
 ## Ground rules for the whole day
 
@@ -81,8 +81,8 @@ these requirements. The details are in
 - **Participants bring:** a government laptop with access to the approved AI
   tool, already tested (see
   [participants/setup-instructions.md](../participants/setup-instructions.md)).
-- **Provided:** lab handouts with all source texts, the four one-page reference
-  cards, the knowledge check, and the capstone packet.
+- **Provided:** the student syllabus, lab handouts with all source texts, and
+  the four one-page reference cards.
 - **Room:** projector, power at every seat, network access to the approved
   tool, and a whiteboard.
 
@@ -96,6 +96,5 @@ these requirements. The details are in
 | 03 | Writing for executives | LO3 | [03](../labs/03-bluf-rewrite.md) |
 | 04 | AI in your workflow | LO4 | [04](../labs/04-meeting-to-actions.md) |
 | 05 | Verify and judge | LO5 | [05](../labs/05-find-the-errors.md) |
-| — | Knowledge check | LO1–LO5 | [assessment](../assessment/knowledge-check.md) |
-| 06 | Capstone | all | [06](../labs/06-capstone-decision-memo.md) |
+| 06 | Put it together | all | [06](../labs/06-decision-memo.md) |
 | 07 | Close: your 30-day plan | LO4 | — |

@@ -1,7 +1,7 @@
 # Lab 05 — Find the Errors
 
 Status: draft
-Module: 05 · Time: 28 min · Objective(s): LO5 · Work: pairs
+Module: 05 · Time: 35 min · Objective(s): LO5 · Work: pairs
 
 ## Goal
 
@@ -42,7 +42,7 @@ Check every claim in the summary against the source. Underline each error,
 and write the type: *changed number*, *invented fact*, *invented authority*,
 or *lost caveat*.
 
-## Part B — Make the AI show its work (10 min)
+## Part B — Make the AI show its work (12 min)
 
 1. New conversation: paste the source and the summary, then:
    > List every claim in the summary. For each one, quote the source sentence
@@ -50,7 +50,7 @@ or *lost caveat*.
 2. Did it find everything you found by hand? Did it find anything you missed?
    Did it flag anything that was actually correct?
 
-## Part C — Should you use AI for this? (8 min)
+## Part C — Should you use AI for this? (13 min)
 
 For each task, decide **yes**, **yes with checks**, or **no**, and give a
 reason.

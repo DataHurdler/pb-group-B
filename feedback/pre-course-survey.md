@@ -12,4 +12,4 @@ Status: draft. 3 minutes; send with the pre-course email.
 
 **Read a week out.** Question 3 finds access problems before the day.
 Question 4 tells you which Module 03 product to emphasize. Use question 5 for
-the examples on the board at 8:45.
+the examples on the board during the welcome.
