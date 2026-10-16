@@ -4,36 +4,38 @@ Status: draft. Send 2 weeks out, and a shorter reminder 1 week out.
 
 ---
 
-**Subject:** AI Prompt Engineering course on `[DATE]`: 15 minutes of prep, please
+**Subject:** AI and LLM Prompt Engineering on `[DATE]`: 10 minutes of prep, please
 
 Hi `[NAME]`,
 
-You're registered for **AI Prompt Engineering for Government Staff Work** on
-**`[DATE]`, 8:00–4:00**, in **`[ROOM / BUILDING]`**.
+You're registered for **AI and LLM Prompt Engineering** on **`[DATE]`,
+8:00–4:00**, in **`[ROOM / BUILDING]`**. The student syllabus is attached.
 
 **By the end of the day you'll be able to:**
 
 - write prompts that get usable results the first time
 - turn long, messy inputs into BLUF emails and one-page products a senior
   leader can act on fast
-- save templates for your recurring tasks, so AI becomes part of your normal week
-- check AI output before it goes up the chain
+- test and refine a prompt until it works reliably
+- leave with a tested template for one recurring task from your own job
 
-**No exam.** Attend the whole day to receive a certificate of completion.
-The student syllabus is attached.
+You'll work individually all day. **There's no exam.** Attend the whole day
+to receive a certificate of completion.
 
-**Before the day (about 15 minutes):**
+**Before the day (about 10 minutes):**
 
-1. **Log in to `[APPROVED TOOL]`** by following
-   [the setup instructions](setup-instructions.md). If you can't, tell us by
-   `[DATE – 5 days]`. You can't complete the course without access.
+1. **Set up a free ChatGPT account on your own laptop**, following
+   [the setup instructions](setup-instructions.md). Nothing to install, and
+   no paid features.
 2. **Fill in the 3-minute survey:** `[LINK]`
+3. **Think of one recurring task** from your job that takes too long. You'll
+   describe it in general terms only.
 
-**Bring:** `[your government laptop and charger / CAC, as applicable]`. All
-course material is fabricated and unclassified. **Don't bring real work
-documents to paste into the AI.**
+**Bring:** your own laptop and charger. All course material is fabricated and
+unclassified. **Nothing from work goes into ChatGPT.**
 
-There are four 15-minute breaks, and lunch is 11:45–12:45 `[provided / on your own]`.
+Arrival and setup start at 8:00, and class starts at 8:30. There are two
+15-minute breaks, and lunch is 12:00–1:00 `[provided / on your own]`.
 
 Questions? Reply to this email.
 

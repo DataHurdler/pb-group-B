@@ -1,56 +1,37 @@
-# Module 01 — How AI Works, and the Rules of the Road
+# Module 01 — How LLMs Use Prompts, and the Rules of the Road
 
-Status: draft
-Time: 8:15–9:15 (60 min) · Objective(s): LO1
+**Objective:** LO1. Explain how large language models use prompts and context to generate responses.
 
-## Why this module, here
+**Time:** 60 minutes, 8:45–9:45 (20 teaching, 40 activity)
 
-Participants arrive with either too much trust in AI ("it knows") or too
-little ("it makes things up"). Both come from not knowing what it is doing.
-This module gives them a working mental model and the data rule before they
-use the tool on their own for the rest of the day.
+## What it teaches
 
-## By the end, participants can
+1. **It predicts; it doesn't look things up.** An LLM writes the most likely next words, given its training and your prompt. It is fluent by design, and that's not the same as being correct.
+2. **It only knows what's in the conversation.** It doesn't know your command, your boss, or your deadlines unless you tell it. What you leave out, it fills with something typical.
+3. **Vague in, average out.** A prompt with no context gets the most generic answer.
+4. **The data rule.** What may go into a public tool today, and into the command's approved tool at work.
 
-- Explain in one sentence why the same prompt gives different answers (LO1).
-- Explain why the AI invents facts it doesn't have, and what that means for
-  staff work (LO1).
-- Sort any piece of information into *OK to paste*, *not OK*, or *check first*
-  (LO1).
+## How it's taught
 
-## Plan
+1. **Hook (5 min):** project one vague prompt, run twice in two new chats. Two different answers. *"Which one is right?"*
+2. One slide per idea above (15 min). End on the [data rules card](../../handouts/data-rules-card.md).
 
-| Min | Activity | Who's talking | Materials |
-| --- | --- | --- | --- |
-| 0–5 | Hook: project one vague prompt run twice, with two different answers. *"Which one is right?"* | Instructor | live demo |
-| 5–20 | Teach: four ideas (below), one slide each | Instructor | slides |
-| 20–50 | [Lab 01: Same prompt, two answers](../../labs/01-same-prompt-two-answers.md) | Pairs | lab handout, data-rules card |
-| 50–60 | Debrief: data-sort answers, then *"What does the AI need from you that it can't get on its own?"* | Room | |
+## Activity
 
-## Teach: the four ideas
+1. **30 min, individuals:** [Lab 01: Same prompt, two answers](../../labs/01-same-prompt-two-answers.md). Run a prompt twice, ask it something it can't know, then do the data sort.
+2. **10 min, whole room:** debrief. Go through the data-sort answers, then ask: *"What does the AI need from you that it can't get on its own?"* (Context.)
 
-1. **It predicts; it doesn't look things up.** The AI writes the most likely
-   next words given what it was trained on and what you typed. It is fluent
-   by design, and that's not the same as being correct.
-2. **It only knows what's in the conversation.** It doesn't know your
-   command, your boss, your deadlines, or last week's decision unless you tell
-   it. Whatever you leave out, it fills with something typical.
-3. **Vague in, average out.** A prompt with no context gets the most generic
-   possible answer. That's the cause of most "AI isn't useful" complaints.
-4. **The data rule.** Some information may never go into the tool, whatever
-   it would save you. Walk through the three columns of
-   [the data-rules card](../../handouts/data-rules-card.md).
+## Materials
 
-## Instructor notes
+- Lab 01 sheet, data rules card, slides
 
-- **Never promise a specific output in the demo.** Run it live and work with
-  whatever comes back. Different answers prove the point.
-- **The data sort is the most important 10 minutes of the day.** If the room
-  runs long, cut Lab 01 Part B, never Part C.
-- **Know the tool's authorization before you teach this.** The card's "check
-  first" column depends on what the approved tool is accredited for. Confirm
-  it with the command's AI or cybersecurity office, and update the card
-  before printing.
-- **Common stumble:** "So I can paste it if I remove the names?" Not always.
-  Removing names doesn't turn controlled or sensitive information into
-  public information. When in doubt, it goes in *check first*.
+## Notes for the instructor
+
+- **Never promise a specific output in the demo.** Run it live. Different answers prove the point.
+- **Free ChatGPT memory** can make the two "same prompt" runs more alike. Ask learners to turn memory off or use a temporary chat, if their account offers one.
+- **Learners ask:** "So I can paste it if I remove the names?" Not on free ChatGPT. Removing names doesn't make work information public.
+- Keep "how it works" to prompts and context. Training and model internals belong in *Introduction to AI and Machine Learning*.
+
+## If time runs short
+
+Cut Lab 01 Part B. Never cut Part C (the data sort).

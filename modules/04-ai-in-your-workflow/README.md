@@ -1,52 +1,42 @@
 # Module 04 — AI in Your Workflow
 
-Status: draft
-Time: 12:45–1:45 (60 min) · Objective(s): LO4
+**Objective:** LO5. Use prompting strategies that improve efficiency while maintaining output quality.
 
-## Why this module, here
+**Time:** 60 minutes, 1:00–2:00 (10 teaching, 50 activity)
 
-By lunch, participants can write one good prompt. But daily work is made of
-recurring tasks with several steps: meeting notes become actions, actions
-become a follow-up email, and the email becomes a line in the weekly status
-report. This module turns one-off prompts into a repeatable process, and
-saves it as a template so the time spent pays off next week too.
+## What it teaches
 
-## By the end, participants can
+1. **One step per prompt.** Extract, organize, draft, then check. A combined prompt fails silently: you can't tell which step went wrong.
+2. **Check between steps.** An error in step 1 gets repeated in every later step, so efficiency never skips the check.
+3. **Templates: replace the specifics with `[SLOTS]`.** The time you spend on a prompt pays off every week after.
+4. **A template is finished when a colleague can use it without help.**
 
-- Break a recurring task into AI-sized steps (extract, organize, draft,
-  check) (LO4).
-- Turn a working prompt into a template with `[SLOTS]` that a colleague could
-  use without asking them anything (LO4).
+## How it's taught
 
-## Plan
+The teaching comes *after* the first activity, once learners have hit the problem:
 
-| Min | Activity | Who's talking | Materials |
-| --- | --- | --- | --- |
-| 0–30 | **Start hands-on, straight after lunch:** [Lab 04 Parts A–B, Meeting notes to actions](../../labs/04-meeting-to-actions.md) | Pairs | lab handout |
-| 30–40 | Teach: decomposition, and turning a prompt into a template (below) | Instructor | slides, [prompt library](../../handouts/prompt-library.md) |
-| 40–55 | Lab 04 Part C: templatize, then swap with another pair, who uses it cold | Pairs | |
-| 55–60 | Debrief: *"What did the other pair have to ask you?"* That's the slot you didn't name | Room | |
+1. Ideas 1 and 2, using what just happened in Parts A–B (5 min).
+2. Ideas 3 and 4. Hand out the [prompt library](../../handouts/prompt-library.md): eight starter templates to copy (5 min).
+3. Point at the board from the welcome: which of the room's recurring tasks would be one prompt, which a chain, and which not AI at all?
 
-## Teach
+## Activity
 
-1. **One step per prompt.** "Extract the actions" and "write the email" are
-   two prompts. A combined prompt fails silently: you can't tell which step
-   went wrong.
-2. **Check between steps.** Read the action table before drafting the email.
-   An error in step 1 gets repeated in every later step.
-3. **Template: replace the specifics with `[SLOTS]`.** `[MEETING NOTES]`,
-   `[READER]`, `[DUE DATE]`. Keep the instructions that made it work.
-4. **A template is finished when someone else can use it cold.** If they had
-   to ask you something, put the answer in the template.
-5. **Where AI fits in the week.** Show the room's recurring tasks from the
-   welcome on the board, and mark which would be one prompt, which a chain, and which
-   not AI at all.
+1. **30 min, individuals:** [Lab 04 Parts A–B](../../labs/04-meeting-to-actions.md). Turn fabricated meeting notes into an action table, a follow-up email, and a status line. **Start the moment lunch ends.**
+2. **10 min, whole room:** the teaching above.
+3. **15 min, individuals:** Lab 04 Part C. **Version 1 of your own template**, for the task on your index card, with `[SLOTS]` and a made-up sample input.
+4. **5 min, whole room:** one volunteer's template on the projector. *"What would you have to ask them before you could use this?"* That's the slot they didn't name.
 
-## Instructor notes
+## Materials
 
-- **Don't lecture first after lunch.** The lab starts at 12:45. Teach once
-  participants have hit the problem the teaching solves.
-- **Point at the prompt library.** It has eight starter templates. Participants
-  should leave knowing it exists and where it is.
-- **No automation.** Connecting AI to email or other systems is out of scope.
-  Name it, and move on.
+- Lab 04 sheet, prompt library, learners' index cards from 8:30
+- Sign-in sheet #2, at 1:00
+
+## Notes for the instructor
+
+- **Don't lecture first after lunch.** Teach once learners have hit the problem the teaching solves.
+- **Watch for real work content** in Part C. The sample input must be invented. Walk the room.
+- **No automation.** Connecting AI to email or other systems belongs in *Building an AI Agent*. Name it, and move on.
+
+## If time runs short
+
+Shorten Part B to the email only. Never cut Part C: the template is the charter's take-home.

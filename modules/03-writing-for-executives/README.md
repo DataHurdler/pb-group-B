@@ -1,41 +1,20 @@
 # Module 03 — Writing for Executives
 
-Status: draft
-Time: 10:45–11:45 (60 min) · Objective(s): LO3
+**Objective:** LO3. Apply prompting techniques to improve accuracy, consistency, format, and usefulness.
 
-## Why this module, here
+**Time:** 60 minutes, 11:00–12:00 (20 teaching, 40 activity)
 
-The product this audience writes most often is something a senior leader will
-read in under a minute. AI is good at shortening and restructuring, and poor
-at knowing what the leader needs to decide. This module combines the six slots
-with executive-writing rules, so the AI does the restructuring and the writer
-keeps the judgment.
+## What it teaches
 
-## By the end, participants can
+1. **Format control:** BLUF (Bottom Line Up Front). The first sentence carries the decision, the ask, or the conclusion. State the length, the order, and the structure in the prompt.
+2. **Usefulness:** say what the reader must do, and by when. Use numbers, not adjectives.
+3. **Accuracy:** "use only these facts," and check every number before you sign.
+4. **Consistency:** a named product with a fixed prompt pattern (BLUF email, information paper, decision memo) gets the same shape every time.
 
-- Prompt for a BLUF email, a one-page information paper, or a decision memo,
-  at a stated word limit (LO3).
-- Edit an AI draft against the executive checklist until they would sign it
-  (LO3).
+## How it's taught
 
-## Plan
-
-| Min | Activity | Who's talking | Materials |
-| --- | --- | --- | --- |
-| 0–5 | Hook: a real-length (fabricated) memo on screen. *"Your boss has 45 seconds. What's the decision?"* Nobody can find it fast | Instructor | Lab 03 source |
-| 5–20 | Teach: four executive-writing rules, then the three products and a prompt pattern for each | Instructor | [executive-writing card](../../handouts/executive-writing-card.md) |
-| 20–50 | [Lab 03: The BLUF rewrite](../../labs/03-bluf-rewrite.md) | Pairs | lab handout |
-| 50–60 | Debrief: project two pairs' final emails. *"What did you change after the AI was done, and why?"* | Room | |
-
-## Teach: what busy readers need
-
-1. **BLUF: Bottom Line Up Front.** The first sentence carries the decision,
-   the ask, or the conclusion. Background goes after it.
-2. **Say what you need, and by when.** "Decision needed by 22 Aug to hold the
-   space" beats "for your awareness."
-3. **Numbers, not adjectives.** "140 people, 2 weeks each" beats "significant
-   impact."
-4. **One page, short paragraphs, active voice.** Detail goes in an attachment.
+1. **Hook (5 min):** a wordy, real-length (fabricated) memo on screen. *"Your boss has 45 seconds. What's the decision?"* Nobody can find it fast.
+2. **The four rules and three products (15 min)**, from the [executive-writing card](../../handouts/executive-writing-card.md):
 
 | Product | When | Prompt pattern |
 | --- | --- | --- |
@@ -43,14 +22,23 @@ keeps the judgment.
 | **Information paper** | "Read this before the meeting" | "One page. Sections: Purpose, Bottom line, Key facts (≤5 bullets), Way ahead." |
 | **Decision memo** | A choice between options | "Options with one-line pros and cons, a recommendation, and the decision deadline. Use only facts from the source." |
 
-**The AI drafts and you sign.** The writer checks the bottom line, the ask,
-and every number before it goes up the chain.
+3. Close the teaching on: **the AI drafts, and you sign.**
 
-## Instructor notes
+## Activity
 
-- **Use the command's correspondence guide for format rules.** This module
-  teaches structure and brevity. It doesn't replace the command's format
-  standards, and it shouldn't contradict them.
-- **Common stumble:** the AI's BLUF sentence is a summary rather than an ask.
-  Fix it in the prompt with *"First sentence must state the decision you need."*
-- **If running long, cut** the information-paper step (Lab 03 Part C).
+1. **30 min, individuals:** [Lab 03: The BLUF rewrite](../../labs/03-bluf-rewrite.md). Draft, then edit by changing the prompt, then write the same facts as an information paper.
+2. **10 min, whole room:** two volunteers' final emails on the projector. *"What did you change after the AI was done, and why?"*
+
+## Materials
+
+- Lab 03 sheet, executive-writing card, slides
+
+## Notes for the instructor
+
+- **Use the command's correspondence guide for format rules.** This module teaches structure and brevity. It shouldn't contradict the command's standards.
+- **Common stumble:** the AI's BLUF is a summary, not an ask. Fix it in the prompt with *"First sentence must state the decision you need."*
+- **Learners ask:** "Can I paste my real memo at work?" Only into the command's approved tool, within its authorization. Never into free ChatGPT.
+
+## If time runs short
+
+Cut Lab 03 Part C (the information paper). Never cut Part B (editing until you'd sign).

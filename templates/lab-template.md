@@ -1,7 +1,7 @@
 # Lab NN — [TITLE]
 
 Status: outline | draft | review | ready
-Module: NN · Time: [N] min · Objective(s): LO_ · Work: solo | pairs | groups of _
+Module: NN · Time: [N] min · Objective: LO_ (word for word in the module README) · Work: individual | whole room
 
 ## Goal
 

@@ -1,7 +1,7 @@
 # Lab 03 — The BLUF Rewrite
 
 Status: draft
-Module: 03 · Time: 30 min · Objective(s): LO3 · Work: pairs
+Module: 03 · Time: 30 min · Objective: LO3 · Work: individual
 
 ## Goal
 
@@ -10,7 +10,7 @@ in under a minute, then edit it until you'd sign it.
 
 ## You'll need
 
-- The approved AI tool
+- Free ChatGPT on your laptop
 - [The executive-writing card](../handouts/executive-writing-card.md)
 
 ## Source (fabricated for training, unclassified)

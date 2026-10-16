@@ -14,11 +14,11 @@ This certifies that
 
 has completed
 
-**AI Prompt Engineering for Government Staff Work**
+**AI and LLM Prompt Engineering**
 
-a 6-hour course covering structured prompting, executive-ready staff
-products with AI, reusable AI-assisted workflows, checking AI output against
-its sources, and the rules for handling data in AI tools.
+a 6-hour hands-on course in designing, testing, and refining prompts for
+workplace applications, including executive-ready staff products and a tested
+prompt template for a recurring task from the participant's own job.
 
 Completed `[DATE]` · `[LOCATION]`
 

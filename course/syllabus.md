@@ -1,100 +1,115 @@
-# Syllabus — AI Prompt Engineering for Government Staff Work
+# Syllabus — AI and LLM Prompt Engineering
 
 Status: draft. This is the instructor's version. Participants get
-[handouts/student-syllabus.md](../handouts/student-syllabus.md).
+[handouts/student-syllabus.md](../handouts/student-syllabus.md). The fixed
+facts come from [CHARTER.md](../CHARTER.md). Where this file differs from the
+charter, [CHANGES.md](../CHANGES.md) says so and gives the reason.
 
-## Description
+## Description (approved, word for word)
 
-A one-day, hands-on course for USSTRATCOM government employees, both civilian
-and military. Participants learn to write prompts that get usable results from
-their approved AI tool, and to use AI to turn long, messy inputs into short
-products a senior leader can act on in under a minute. They also learn to build
-AI into the recurring tasks of their week without breaking data-handling rules.
-Participants who attend the full day receive a certificate of completion.
+The quality of results produced by generative AI often depends on the quality of
+the instructions it receives. Effective prompt design helps users communicate
+their intent clearly, provide appropriate context, establish constraints, and
+guide large language models (LLMs) toward more useful outputs.
+
+In this hands-on course, participants will learn practical techniques for
+designing, testing, and refining prompts for workplace applications.
+Participants will explore how prompt structure influences AI-generated responses
+and how thoughtful prompt design can improve quality, consistency, and
+efficiency.
+
+## This offering
+
+Tailored for USSTRATCOM government employees, both civilian and military. The
+workplace applications are their daily staff work: writing for busy executive
+readers (BLUF emails, information papers, decision memos) and making recurring
+tasks faster with reusable prompts. **Each participant works individually** on
+their own laptop.
 
 ## Audience
 
-- **Who:** action officers, staff officers, analysts, and administrative staff
-  who write, summarize, or coordinate as a routine part of their job. Military,
-  civilian, and contractor staff are all welcome, if their access to the
-  approved tool permits.
-- **Assumed:** they can use a web browser and a government email account. They
-  write staff products such as emails, information papers, and taskers.
-- **Not assumed:** any prior AI use. The course starts from "what is this tool
-  actually doing?"
-- **Group size:** 12–24, working in pairs.
+- **Charter:** working professionals in mixed roles. No programming is assumed
+  or taught.
+- **This offering:** action officers, staff officers, analysts, and
+  administrative staff who write, summarize, or coordinate as a routine part
+  of their job.
+- **Not assumed:** any prior AI use.
+- **Group size:** 12–24, each working individually.
 
-## Learning objectives
+## Learning objectives (approved, word for word)
 
-By the end of the day, participants will be able to:
+1. **LO1:** Explain how large language models use prompts and context to generate responses.
+2. **LO2:** Write clear, structured prompts that produce more useful and relevant outputs.
+3. **LO3:** Apply prompting techniques to improve accuracy, consistency, format, and usefulness.
+4. **LO4:** Refine prompts through iterative testing and evaluation.
+5. **LO5:** Use prompting strategies that improve efficiency while maintaining output quality.
 
-1. **LO1:** Explain in plain terms how a generative AI tool produces its
-   answers, and apply the data-handling rules: what may and may not go into it.
-2. **LO2:** Write a structured prompt using the six slots (Task, Context,
-   Audience, Format, Constraints, Example), and improve a vague prompt by
-   filling the empty slot.
-3. **LO3:** Use AI to produce executive-ready products, such as a BLUF email,
-   a one-page information paper, or a decision memo, at a stated length. Then
-   edit the draft until the writer can sign it.
-4. **LO4:** Break a recurring task into AI-assisted steps, and save the prompt
-   as a reusable template with `[SLOTS]`.
-5. **LO5:** Check AI output against its source, catch invented facts, and
-   decide when *not* to use AI.
+Progress is checked in each lab and debrief, not by a test. There is no exam
+or graded work.
 
-Progress is checked in each lab's debrief and in the final exercise, not by a
-test. There is no exam or graded work.
+## What a learner leaves with
+
+**A tested prompt template for one recurring task from their own job, that a
+colleague could use without help.** (Charter, word for word.)
+
+This is built across the day as an individual thread:
+
+| When | Step |
+| --- | --- |
+| 8:30, Module 00 | Name one recurring task, in general terms, on an index card |
+| 1:00, Module 04 | Build version 1 of the template, with `[SLOTS]` and a made-up sample input |
+| 2:15, Module 05 | Write criteria, test, change one thing, and retest. Then a cold test: could someone use it without asking you anything? |
+| 3:45, Module 07 | Commit to using it at work within 30 days, on the command's approved tool |
 
 ## Certificate of completion
 
 Participants receive a certificate of completion when they **attend every
 module**. Up to 15 minutes' total absence is allowed with the instructor's
-approval. Attendance is recorded on sign-in sheets at 8:00 and 12:45. The
+approval. Attendance is recorded on sign-in sheets at 8:30 and 1:00. The
 certificate template is in
 [instructor/certificate-template.md](../instructor/certificate-template.md).
 
-> The certificate records attendance at this course. Whether it counts toward
-> any training record or continuing-education hours is up to the command's
-> training office. Confirm this before advertising it.
+> The certificate records attendance. Whether it counts toward any training
+> record or continuing-education hours is up to the command's training office.
+
+## Tools (charter, fixed)
+
+- **Each learner's own laptop and a free ChatGPT account.** There are no paid
+  features, no file uploads, and nothing to install. Every source text is
+  pasted, and none is longer than one page.
+- **The instructor** runs demos live on the projector, and projects
+  volunteers' prompts during debriefs.
 
 ## Ground rules for the whole day
 
-- **Only fabricated, unclassified material goes into the AI**, in every
-  exercise. Every source text in this repo is invented for training and labeled
-  that way.
-- **Participants use only the AI tool the command has approved** for their
-  account, within its authorization. See
+- **No confidential data in any prompt** (charter): no student, personnel, or
+  health records. In this offering, that also means nothing from work at all.
+  Free ChatGPT is a public tool, not an approved government system. Every
+  source text in this repo is fabricated and labeled that way.
+- **At work afterwards,** participants use only the command's approved AI
+  tool, within its authorization. See
   [handouts/data-rules-card.md](../handouts/data-rules-card.md).
 - **The writer owns the output.** AI drafts. A person checks every fact and
   signs.
 
 ## Scope
 
-| In scope | Out of scope |
+| In scope | Out of scope: other courses in the series cover these (charter) |
 | --- | --- |
-| Prompting a chat-based AI tool for staff work | Building, training, or fine-tuning AI models |
-| Executive writing: BLUF, info papers, decision memos | Full staff-writing course: format rules and correspondence manuals (refer to the command's writing guide) |
-| Reusable templates for recurring tasks | Automation, scripting, or connecting AI to other systems |
-| Checking output; when not to use AI | AI policy-making, acquisition, or cybersecurity accreditation |
-
-## Materials and requirements
-
-- **Participants bring:** a government laptop with access to the approved AI
-  tool, already tested (see
-  [participants/setup-instructions.md](../participants/setup-instructions.md)).
-- **Provided:** the student syllabus, lab handouts with all source texts, and
-  the four one-page reference cards.
-- **Room:** projector, power at every seat, network access to the approved
-  tool, and a whiteboard.
+| How prompts and context shape LLM output | **Introduction to AI and Machine Learning** |
+| Structured prompts; executive writing: BLUF, info papers, decision memos | **Building an AI Agent** (automation and connecting AI to other systems) |
+| Testing and refining prompts against criteria | **AI Ethics and Governance** (policy and responsible-use questions beyond today's data rule) |
+| Reusable templates for recurring tasks | **Data Analytics, Cleaning and Visualization in Excel** |
 
 ## Module map
 
-| Module | Title | Objective(s) | Lab |
+| Module | Title | Objective | Lab |
 | --- | --- | --- | --- |
 | 00 | Welcome | — | — |
-| 01 | How AI works, and the rules of the road | LO1 | [01](../labs/01-same-prompt-two-answers.md) |
+| 01 | How LLMs use prompts, and the rules of the road | LO1 | [01](../labs/01-same-prompt-two-answers.md) |
 | 02 | The six slots | LO2 | [02](../labs/02-rebuild-a-vague-prompt.md) |
 | 03 | Writing for executives | LO3 | [03](../labs/03-bluf-rewrite.md) |
-| 04 | AI in your workflow | LO4 | [04](../labs/04-meeting-to-actions.md) |
-| 05 | Verify and judge | LO5 | [05](../labs/05-find-the-errors.md) |
-| 06 | Put it together | all | [06](../labs/06-decision-memo.md) |
-| 07 | Close: your 30-day plan | LO4 | — |
+| 04 | AI in your workflow | LO5 | [04](../labs/04-meeting-to-actions.md) |
+| 05 | Test and refine | LO4 (and LO3: accuracy) | [05](../labs/05-test-and-refine.md) |
+| 06 | Put it together | LO3, LO5 | [06](../labs/06-decision-memo.md) |
+| 07 | Close: your 30-day plan | LO5 | — |

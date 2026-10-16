@@ -1,7 +1,7 @@
 # Lab 01 — Same Prompt, Two Answers
 
 Status: draft
-Module: 01 · Time: 30 min · Objective(s): LO1 · Work: pairs
+Module: 01 · Time: 30 min · Objective: LO1 · Work: individual
 
 ## Goal
 
@@ -10,7 +10,7 @@ data rule.
 
 ## You'll need
 
-- The approved AI tool, one per pair
+- Your laptop, logged in to free ChatGPT (memory off, or a temporary chat)
 - [The data-rules card](../handouts/data-rules-card.md)
 
 ## Part A — Same prompt, twice (10 min)
@@ -32,30 +32,31 @@ data rule.
 
 ## Part C — The data sort (15 min)
 
-For this exercise, **assume the approved tool is authorized for unclassified
-information only, and not for CUI or PII.** Your instructor will tell you if
-the real tool's authorization differs.
+Sort each item **twice**, and write one line saying why:
 
-Mark each item **OK**, **NOT OK**, or **CHECK FIRST**, and write one line
-saying why.
+- **Today:** could it go into **free ChatGPT** on your own laptop? *(yes / no)*
+- **At work:** could it go into **the command's approved AI tool**? *(OK / NOT OK / CHECK FIRST)*.
+  For this column, assume the approved tool is authorized for unclassified
+  information only, and not for CUI or PII. Your instructor will tell you if
+  the real authorization differs.
 
-| # | You want to paste… | OK / NOT OK / CHECK FIRST |
-| --- | --- | --- |
-| 1 | A public press release from the command's website | |
-| 2 | A spreadsheet of names and home addresses for a unit picnic | |
-| 3 | A paragraph you wrote about general meeting-scheduling tips | |
-| 4 | A draft email marked CUI | |
-| 5 | A section of a public DoD instruction | |
-| 6 | Meeting notes that mention a programme's schedule slip, with no markings | |
-| 7 | Fabricated training material from this course | |
-| 8 | A colleague's performance-appraisal draft, with the name removed | |
-| 9 | A vendor's quote you received by email | |
-| 10 | Anything classified, at any level | |
+| # | You want to paste… | Today: free ChatGPT | At work: approved tool |
+| --- | --- | --- | --- |
+| 1 | A public press release from the command's website | | |
+| 2 | A spreadsheet of names and home addresses for a unit picnic | | |
+| 3 | A paragraph you wrote about general meeting-scheduling tips | | |
+| 4 | A draft email marked CUI | | |
+| 5 | A section of a public DoD instruction | | |
+| 6 | Meeting notes that mention a programme's schedule slip, with no markings | | |
+| 7 | Fabricated training material from this course | | |
+| 8 | A colleague's performance-appraisal draft, with the name removed | | |
+| 9 | A vendor's quote you received by email | | |
+| 10 | Anything classified, at any level | | |
 
 ## Done when
 
 - [ ] Part A: two differences and two invented "facts" are written down
-- [ ] Part C: every row is marked, with a reason
+- [ ] Part C: every row is marked in both columns, with a reason
 
 ## Stretch
 
@@ -65,29 +66,29 @@ What did you have to add? (That's the preview of Module 02.)
 ## Debrief questions
 
 - Why did two identical prompts give different answers?
-- Which data-sort row did your pair disagree on?
+- Which row was hardest to decide, and why?
 
 ## Instructor: answer key and pitfalls
 
-Part C answers, under the assumption stated in the lab:
+| # | Today: free ChatGPT | At work: approved tool | Why |
+| --- | --- | --- | --- |
+| 1 | yes | OK | Already public |
+| 2 | no | NOT OK | PII |
+| 3 | yes | OK | Your own general, unclassified writing, with nothing from work in it |
+| 4 | no | NOT OK | CUI, which the tool isn't authorized for under this assumption |
+| 5 | yes | OK | Public document |
+| 6 | no | CHECK FIRST | Work information, so never on a public tool. At work, unmarked doesn't mean releasable |
+| 7 | yes | OK | Fabricated and unclassified by design |
+| 8 | no | NOT OK | A personnel record. Removing the name doesn't make it releasable |
+| 9 | no | CHECK FIRST | Work information. May be proprietary or procurement-sensitive |
+| 10 | no | NOT OK | Never, on any unclassified tool |
 
-| # | Answer | Why |
-| --- | --- | --- |
-| 1 | OK | Already public |
-| 2 | NOT OK | PII |
-| 3 | OK | Your own general, unclassified writing |
-| 4 | NOT OK | CUI, which the tool isn't authorized for under this assumption |
-| 5 | OK | Public document |
-| 6 | CHECK FIRST | Unmarked doesn't mean releasable. Programme details may be sensitive or need marking |
-| 7 | OK | Fabricated and unclassified by design |
-| 8 | NOT OK | Personnel matter. Removing the name doesn't make it releasable, and this is a decision about a person |
-| 9 | CHECK FIRST | May be proprietary or procurement-sensitive |
-| 10 | NOT OK | Never, on any unclassified tool |
+**The rule to land:** on free ChatGPT, the answer is *yes* only for public or
+fabricated material. Everything from work is *no*. The "at work" column is
+where judgment comes in.
 
-**Pitfall:** pairs argue that "it's unmarked, so it's fine" (row 6). The point
-to land is that the writer is responsible for knowing what it is, not just
-how it's marked.
+**Pitfall:** learners argue "it's unmarked, so it's fine" (row 6). The writer
+is responsible for knowing what it is, not just how it's marked.
 
-**Update this key** if the real tool's authorization differs (for example, if
-it is authorized for CUI). Rows 4 and 6 may change. Rows 2, 8, and 10 almost
-certainly won't.
+**Update the "at work" column** if the approved tool's real authorization
+differs. Rows 4 and 6 may change. Rows 2, 8, and 10 almost certainly won't.

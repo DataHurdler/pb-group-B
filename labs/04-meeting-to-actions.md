@@ -1,17 +1,18 @@
 # Lab 04 — Meeting Notes to Actions
 
 Status: draft
-Module: 04 · Time: 45 min (30 + 15) · Objective(s): LO4 · Work: pairs
+Module: 04 · Time: 45 min (30 + 15) · Objective: LO5 · Work: individual
 
 ## Goal
 
-Run a recurring task as a chain of short prompts, then save the chain as a
-template another pair can use cold.
+Run a recurring task as a chain of short prompts. Then start a template for
+**your own** recurring task: the one on your index card.
 
 ## You'll need
 
-- The approved AI tool
+- Free ChatGPT on your laptop
 - [The prompt library](../handouts/prompt-library.md), for reference
+- Your index card from the welcome
 
 ## Source (fabricated for training, unclassified)
 
@@ -44,20 +45,25 @@ Does the table have them all? Did it invent an owner?
    Then the table."*
 2. Then: *"Write a one-line entry for the weekly status report."*
 
-## Part C — Templatize and swap (15 min, after the teaching block)
+## Part C — Version 1 of your own template (15 min, after the teaching block)
 
-1. Rewrite your three prompts as one template, replacing the specifics with
-   `[SLOTS]`: `[MEETING NOTES]`, `[ATTENDEES]`, `[NEXT MEETING]`, and so on.
-2. Swap templates with another pair. Run theirs on the source above **without
-   asking them anything**.
-3. Write down every question you wanted to ask them. Give the list back to
-   that pair, and they add the answers to their template.
+Work on the recurring task on your index card.
+
+1. **Write a made-up sample input (4 min):** 5–10 lines that look like the
+   real thing, but are invented. No real names, numbers, or content from
+   work. No student, personnel, or health records.
+2. **Write the template (8 min).** Start from the closest one in the prompt
+   library, if any. Fill the six slots, and replace everything specific with
+   `[SLOTS]`: `[READER]`, `[DEADLINE]`, `[PASTE NOTES]`, and so on. If the task
+   has several steps, write one prompt per step.
+3. **Run it once (3 min)** on your sample input, in a new chat. Save the
+   template and the output. Module 05 tests and refines it.
 
 ## Done when
 
 - [ ] The action table has all actions, with no invented owners
 - [ ] A follow-up email and a status line are drafted from the table
-- [ ] A template that another pair ran without asking you anything, or one you've revised after the swap
+- [ ] Version 1 of your own template, with `[SLOTS]`, run once on an invented sample input
 
 ## Stretch
 
@@ -81,6 +87,9 @@ estimate, photo releases (admin is only tentative), and family parking.
 
 The next meeting (23 Oct, 1000) is a date, not an action.
 
-**Pitfalls:** the AI assigns photo releases firmly to admin, or assigns
+**Part C pitfall:** learners paste real content from their task "just to
+test it." Walk the room. The sample input must be invented.
+
+**Part A–B pitfalls:** the AI assigns photo releases firmly to admin, or assigns
 parking to facilities. Those are invented owners, which is the exact failure
 step 1 must catch. That's the argument for checking between steps.

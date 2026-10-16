@@ -1,12 +1,12 @@
 # Lab 06 — Put It Together: The Decision Memo
 
 Status: draft
-Module: 06 · Time: 30 min · Objective(s): all · Work: individual memo, then a partner check (not graded)
+Module: 06 · Time: 30 min · Objective: LO3, LO5 · Work: individual (not graded)
 
 ## Your task
 
 The director has to decide how to deliver next year's records-management
-refresher. Using the packet below and your own prompts on the approved tool,
+refresher. Using the packet below and your own prompts on free ChatGPT,
 produce a **one-page decision memo** that the director can act on in under a
 minute.
 
@@ -17,9 +17,13 @@ The memo must include:
 - your **recommendation**, with a one-line reason
 - **only facts from the packet**, with estimates labeled as estimates
 
-## Partner check (last 8 minutes)
+**Save time:** start from template #7 (decision memo) in the prompt library,
+rather than writing from scratch.
 
-Swap memos with your partner. Check theirs, and they check yours:
+## Self-check (last 8 minutes)
+
+Check your own memo. Then, in a new chat, paste the packet and your memo and
+ask: *"List every claim in this memo that the packet doesn't support."*
 
 - [ ] Could the director act on the first two sentences alone?
 - [ ] Are the decision and the 15 Nov deadline both in the first two sentences?
@@ -28,7 +32,7 @@ Swap memos with your partner. Check theirs, and they check yours:
 - [ ] Is the 92% figure labeled as an estimate?
 - [ ] Is anything in the memo that isn't in the packet?
 
-Make one fix each. If you finish early, save your memo prompt as a template
+Make one fix. If you finish early, save your memo prompt as a template
 with `[SLOTS]`, so it works on a different packet.
 
 ## Packet (fabricated for training, unclassified)

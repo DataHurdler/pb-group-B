@@ -1,7 +1,8 @@
 # Prompt Library — Starter Templates for Daily Work
 
 *Copy a template, fill every `[SLOT]`, and check the output before using it.
-Data rule first: paste only what your approved tool is authorized to hold.*
+Data rule first. In class, on free ChatGPT: fabricated material only. At work:
+only the command's approved tool, within its authorization.*
 
 ## 1. BLUF email from notes
 > Turn these notes into a BLUF email to `[READER]`, ≤`[N]` words. The first

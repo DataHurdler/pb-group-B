@@ -1,29 +1,35 @@
 # Module 06 — Put It Together
 
-Status: draft
-Time: 3:15–3:45 (30 min, hands-on, not graded) · Objective(s): all
+**Objective:** LO3. Apply prompting techniques to improve accuracy, consistency, format, and usefulness. LO5. Use prompting strategies that improve efficiency while maintaining output quality.
 
-Each participant takes a raw, fabricated packet (an email thread plus a small
-data table) and writes a one-page decision memo for a director, using their
-own prompts on the approved tool. It's the whole day in one task: data rule,
-six slots, executive structure, a template, and checking. Nothing is
-submitted or scored. The partner check at the end is for the participant's
-own benefit.
+**Time:** 30 minutes, 3:15–3:45 (0 teaching, 30 activity)
 
-- **Task and packet:** [labs/06-decision-memo.md](../../labs/06-decision-memo.md)
+## What it teaches
 
-| Min | Activity |
-| --- | --- |
-| 0–2 | Hand out the packet; read the task aloud |
-| 2–22 | Each person writes their own memo. Partners can talk, but each writes their own prompts |
-| 22–30 | Swap memos with your partner and check each other's against the checklist in the lab. One fix each |
+Nothing new. It's the whole day in one task: the data rule, the six slots,
+executive structure, a template from the library, and checking. Nothing is
+submitted or scored.
 
-## Instructor notes
+## How it's taught
 
-- **Walk the room.** It's the best moment of the day to see who has the six
-  slots and the "use only this" habit, and who doesn't. Help with a question,
-  not an answer: *"Which slot is empty?"*
-- **If running late,** shorten to 20 minutes by cutting the partner check to
-  3 minutes. Don't extend into the close.
-- **Point at the template.** Participants who finish early should save their
-  memo prompt as a template. It feeds straight into the 30-day plan.
+1. Hand out the packet and read the task aloud (2 min). Point out that template #7 in the prompt library is a decision memo. Starting from it *is* the efficiency lesson.
+
+## Activity
+
+1. **20 min, individuals:** [Lab 06: The decision memo](../../labs/06-decision-memo.md). Write a one-page decision memo from a raw, fabricated email thread and data table.
+2. **8 min, individuals:** self-check against the lab's checklist. Open a new chat and ask it to list every claim in your memo that the packet doesn't support. Make one fix.
+
+## Materials
+
+- Lab 06 packet, with the instructor section removed
+- Prompt library
+
+## Notes for the instructor
+
+- **Walk the room.** It's the best moment of the day to see who has the six slots and the "use only this" habit. Help with a question, not an answer: *"Which slot is empty?"*
+- **The most common slip:** presenting the 92% estimate as measured. Raise it in the close.
+- **Learners who finish early:** save the memo prompt as a second template.
+
+## If time runs short
+
+Shorten to 20 minutes by cutting the self-check to 3 minutes. Don't extend into the close.

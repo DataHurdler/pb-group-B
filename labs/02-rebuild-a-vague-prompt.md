@@ -1,7 +1,7 @@
 # Lab 02 — Rebuild a Vague Prompt
 
 Status: draft
-Module: 02 · Time: 35 min · Objective(s): LO2 · Work: pairs
+Module: 02 · Time: 35 min · Objective: LO2 · Work: individual
 
 ## Goal
 
@@ -10,7 +10,7 @@ slot changes the output most.
 
 ## You'll need
 
-- The approved AI tool
+- Free ChatGPT on your laptop
 - [The six-slots card](../handouts/six-slots-card.md)
 
 ## Source (fabricated for training, unclassified)
@@ -35,7 +35,7 @@ slot changes the output most.
    | v2 | **Audience:** "for all 140 directorate employees, many of whom already telework" | |
    | v3 | **Format:** "BLUF email, ≤120 words, subject line, the deadline in the first sentence, 3 bullets max" | |
    | v4 | **Constraints:** "Don't add policies or dates that aren't in the source. Plain language, no jargon" | |
-   | v5 | **Example:** paste a short email your pair likes (any fabricated example) and add "match this tone" | |
+   | v5 | **Example:** paste a short email you like (fabricated, never a real one from work) and add "match this tone" | |
 3. **Compare (7 min).** Put v0 and v5 side by side. Which version made the
    biggest single jump?
 4. **Ask it to ask you (5 min).** New conversation: paste v5 and add *"Before
@@ -55,7 +55,7 @@ can't be dropped?
 
 ## Debrief questions
 
-- Which slot made the biggest difference, and was it the same for every pair?
+- Which slot made the biggest difference, and was it the same for everyone in the room?
 - Did v0 invent anything that v1 removed?
 
 ## Instructor: answer key and pitfalls
@@ -63,6 +63,6 @@ can't be dropped?
 - **v0** almost always invents details: days allowed, dates, a form name. Use
   that as the lead-in to grounding.
 - **v1 (Context)** usually gives the biggest jump. **v3 (Format)** comes second.
-- **Pitfall:** pairs keep adding to one conversation instead of starting new
+- **Pitfall:** learners keep adding to one conversation instead of starting new
   ones. Then the comparison isn't fair, because earlier turns carry over.
   Insist on a new conversation per version.

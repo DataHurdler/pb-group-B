@@ -1,34 +1,30 @@
-# Module NN — [TITLE]
+# Module [number] — [title]
 
-Status: outline | draft | review | ready
-Time: [start]–[end] ([N] min) · Objective(s): LO_
+**Objective:** [the learning objective this module serves, word for word]
 
-## Why this module, here
+**Time:** [total minutes] ([minutes of teaching] teaching, [minutes of activity] activity)
 
-[One paragraph: what problem participants have at this point in the day that
-this module solves, and what the next module needs from it.]
+## What it teaches
 
-## By the end, participants can
+[Two to four ideas. If there are more than four, split the module.]
 
-- [observable skill, tied to LO_]
+## How it's taught
 
-## Plan
+[The short teaching part, as a list of points in order.]
 
-| Min | Activity | Who's talking | Materials |
-| --- | --- | --- | --- |
-| 0–5 | Hook: a problem or failure the room recognizes | Instructor | |
-| 5–20 | Teach: one idea at a time, each shown with an example | Instructor | slides |
-| 20–55 | Lab: [labs/NN-…](../../labs/) | Participants | handout |
-| 55–60 | Debrief: what worked, what didn't, link to next module | Room | |
+## Activity
 
-## Instructor notes
+[Numbered steps. For each: how many minutes, and who works: individuals,
+groups, or the whole room.]
 
-- **Common stumbles:** [what goes wrong, and the one sentence that fixes it]
-- **If running long, cut:** [the part to drop first]
-- **If running short, add:** [a stretch task]
+## Materials
 
-## Materials checklist
+- [Handouts, files, or anything else to prepare]
 
-- [ ] Slides
-- [ ] Lab handout
-- [ ] Any files, accounts, or equipment
+## Notes for the instructor
+
+[What usually goes wrong, and what learners tend to ask.]
+
+## If time runs short
+
+[What to cut first, and what must never be cut.]
